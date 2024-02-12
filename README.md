@@ -1,4 +1,10 @@
-# Deeplearning.AI TensorFlow: Advanced Techniques Specialization Solution
+<h1 align="center">
+  <br>
+  <a href="https://github.com/awrsha"><img src="https://github.com/Awrsha/TensorFlow-Advanced-Techniques-Specialization/assets/89135083/bb0f0006-8182-48f4-a927-b94b46fb53cd" alt="Certificate" width="800"></a>
+  <b><h5 align="center">.:: Deeplearning.AI TensorFlow: Advanced Techniques Specialization Solution ::.</h5></b>
+</h1>
+
+## Overview
 
 This repository contains solutions to the assignments and projects for the courses within the [Deeplearning.AI TensorFlow: Advanced Techniques Specialization](https://www.coursera.org/specializations/tensorflow-advanced-techniques) offered by Coursera. The specialization covers advanced topics in TensorFlow, including custom models, layers, loss functions, distributed training, computer vision, and generative deep learning.
 
